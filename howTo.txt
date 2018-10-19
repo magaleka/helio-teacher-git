@@ -1,0 +1,8 @@
+Hey so Im writing this to teach you guys how to contribute and do a pull request
+1) first clone the project
+2) ask me to add you as a contributor or do the process as a fork
+which I wont be covering
+3) add something then push up to dev 
+4) make a pull rquest.
+
+
