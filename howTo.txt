@@ -4,5 +4,7 @@ Hey so Im writing this to teach you guys how to contribute and do a pull request
 which I wont be covering
 3) add something then push up to dev 
 4) make a pull rquest.
+5) and then click merge 
 
+there you go guys
 
